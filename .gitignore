@@ -27,3 +27,6 @@ proguard/
 *.log
 
 .idea/
+
+#Temporarios
+texto.txt
